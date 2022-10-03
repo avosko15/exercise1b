@@ -1,4 +1,3 @@
-# cs 361 exercise 1a
+# cs 361 exercise 1b
 # Anna Vosko
-# player class with name and score attribute
-# exercise1b
+# playing by the clean code books rules
